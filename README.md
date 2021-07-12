@@ -12,6 +12,12 @@
   }
 ```
 
+you can find me 🌎:
+- [Instagram](https://www.instagram.com/ariz_hassam/) <a href="https://www.instagram.com/ariz_hassam/"><img alt="Twitter" height="32" width="32" src="assets/twitter.svg"></a>
+- [Twitter](https://twitter.com/Ariz_Her21) 🐦
+- [Portfolio](https://arizhernandez.github.io/portafolio/) 👷‍♂️
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArizHernandez&layout=compact)](https://github.com/ArizHernandez/github-readme-stats)
 ![Ariz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArizHernandez&hide=contribs,prs)
 
 <!--
