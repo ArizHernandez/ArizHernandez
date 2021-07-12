@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Ariz 👋🧑‍💻
+
+![Ariz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArizHernandez&hide=contribs,prs)
 
 <!--
 **ArizHernandez/ArizHernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
