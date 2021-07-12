@@ -1,5 +1,17 @@
 ### Hi, I'm Ariz 👋🧑‍💻
 
+```js
+  const me = {
+    firstName: 'Ariz',
+    lastName: 'Hernández',
+    genre: 'Man',
+    age: 20,
+    language: [Spanish, English],
+    code: [JavaScript, TypeScript, HTML, CSS],
+    tools: [React, Angular, NodeJs]
+  }
+```
+
 ![Ariz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArizHernandez&hide=contribs,prs)
 
 <!--
