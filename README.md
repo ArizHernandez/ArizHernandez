@@ -4,10 +4,9 @@
   const me = {
     firstName: 'Ariz',
     lastName: 'Hernández',
-    genre: 'Man',
-    age: 20,
+    age: 21,
     language: [Spanish, English],
-    code: [JavaScript, TypeScript, HTML, CSS],
+    code: [JavaScript, TypeScript],
     tools: [React, Angular, NodeJs]
   }
 ```
