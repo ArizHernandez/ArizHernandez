@@ -12,8 +12,6 @@
 ```
 
 you can find me 🌎:
-- [Instagram](https://www.instagram.com/ariz_hassam/) <a href="https://www.instagram.com/ariz_hassam/"><img alt="Instagram" height="25" width="25" src="assets/instagram.png"></a>
-- [Twitter](https://twitter.com/Ariz_Her21) <a href="https://twitter.com/Ariz_Her21"><img alt="Twitter" height="25" width="25" src="assets/twitter.svg"></a>
 - [Portfolio](https://arizhernandez.github.io/portafolio/) <a href="https://twitter.com/Ariz_Her21"><img alt="Github" height="25" width="25" src="assets/github.svg"></a>
 - [Linkedin](https://www.linkedin.com/in/ariz-hernandez/) <a href="https://www.linkedin.com/in/ariz-hernandez/"><img alt="Linkedin" height="25" width="25" src="assets/linkedin.svg"></a>
 
